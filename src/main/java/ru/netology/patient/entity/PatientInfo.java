@@ -78,4 +78,5 @@ public class PatientInfo {
     public int hashCode() {
         return Objects.hash(id, name, surname, birthday, healthInfo);
     }
+
 }

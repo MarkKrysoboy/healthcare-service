@@ -6,4 +6,5 @@ public class SendAlertServiceImpl implements SendAlertService {
     public void send(String message) {
         System.out.println(message);
     }
+
 }
